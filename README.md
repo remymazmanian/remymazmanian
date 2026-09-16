@@ -6,7 +6,7 @@ Background in precision systems work and professional audio. The through-line ac
 
 ### Projects
 
-- [Bitwig Control Deck](https://github.com/remymazmanian/bitwig-control-deck) — local MCP bridge for Bitwig Studio
-- [WP MCP Connector](https://github.com/remymazmanian/wp-mcp-connector-plugin) — MCP server for WordPress
+- [Bitwig Control Deck](https://github.com/remymazmanian/bitwig-control-deck) — tell an AI what to change in Bitwig; it does it, then checks Bitwig did it
+- [WP MCP Connector](https://github.com/remymazmanian/wp-mcp-connector-plugin) — WordPress plugin so AI clients can read and publish on your site
 
 [remymazmanian.com](https://remymazmanian.com)
