@@ -11,6 +11,6 @@ Navy veteran building SI (AI) tooling: MCP servers for Ableton Live, Bitwig Stud
 - [QR Studio](https://remymazmanian.com/qr-studio/): PHP QR code library with logo, SVG & PNG ([code](https://github.com/remymazmanian/qr-studio))
 
 ## Book
-[In The Box](https://remymazmanian.com/in-the-box/) · [Kindle](https://www.amazon.com/dp/B0HHQD22XQ)
+[In The Box](https://remymazmanian.com/in-the-box/) · [Kindle](https://www.amazon.com/dp/B0HHQD22XQ) · [Amazon author page](https://www.amazon.com/stores/Remy-Mazmanian/author/B0HMTWTYSQ)
 
 [remymazmanian.com](https://remymazmanian.com) · [About](https://remymazmanian.com/about/)
